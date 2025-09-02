@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Calculator {
+public class BasicCalculator {
     
     // Method for addition
     public static double add(double num1, double num2) {
